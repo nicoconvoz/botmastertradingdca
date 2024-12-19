@@ -7,22 +7,35 @@ Instrucciones para iniciar la App:
 
 Instalar Visual Studio Code:
 https://code.visualstudio.com/
+
 Instalar Node.Js
 https://nodejs.org/en
+
 Si Node.Js lanza error en la instalación o demasiados warnings: Abrir nuevamente el instalador de Node.Js y colocar Repair o Reparar.
 
 Abrir una Terminal en Visual Studio Code y colocar las siguientes sentencias y darles enter:
+
 pip install pandas numpy requests pandas-ta setuptools env 
+
 pip install python-dotenv
+
 pip install matplotlib  
+
 Verificar que la versión de tu Python sea: Python 3.12.5
+
 con el comando:  python –version
 
+
 Buscar un directorio similar en tu pc
+
 C:\Users\Nico\AppData\Roaming\Python\Python312\site-packages\pandas_ta\momentum
+
 Y modificar el archivo: squeeze_pro.py
-Donde dice:	 	from numpy import NaN as npNaN
+
+Donde dice:	    	from numpy import NaN as npNaN
+
 Reemplazar con: 	from numpy import nan as npNaN
+
 
 Buscar en Telegram el Bot: @BotFather
  
