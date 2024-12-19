@@ -134,6 +134,9 @@ BNB_COOLDOWN_SECONDS=60
 BNB_BUY_LIMIT_PER_DAY=3
 
 
+Finalmente dobleclick en el archivo mtb4.pyc
+
+
 ########################################
 # OTRAS CONFIGURACIONES
 ########################################
