@@ -133,10 +133,6 @@ BNB_COOLDOWN_SECONDS=60
 # Límite de compras de BNB por día para controlar la frecuencia de reabastecimiento.
 BNB_BUY_LIMIT_PER_DAY=3
 
-
-Finalmente dobleclick en el archivo mtb4.pyc
-
-
 ########################################
 # OTRAS CONFIGURACIONES
 ########################################
@@ -146,3 +142,6 @@ DROP_PERCENT=2
 # Porcentaje mínimo de ganancia al cual se considerará vender.
 MIN_PROFIT_PERCENT=2
 
+
+
+Finalmente dobleclick en el archivo mtb4.pyc
